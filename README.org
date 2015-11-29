@@ -1,0 +1,2 @@
+* Get all the emacs keys working in the Linux Console
+Documentation will be added later.
